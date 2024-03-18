@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>Welcome to school</h1>
+<h1>Welcome to students MIS</h1>
 <p>This is a paragraph.</p>
-<a href="https://www.yourhomepage.com"> </a>
+<a href=""> </a>
 </body>
 </html>
